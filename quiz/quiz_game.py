@@ -23,7 +23,8 @@ def main():
 
         if play_game == 'n':
             results()
-            
+
+        
     input('Press ENTER to end program.')
 
 main()
